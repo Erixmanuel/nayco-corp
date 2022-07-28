@@ -1,3 +1,9 @@
+# Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f75534ef-744e-4a65-be4c-9e8cc10f08c2/deploy-status)](https://app.netlify.com/sites/calm-croissant-52724f/deploys)
+
+# Production
+[nayco corp](https://calm-croissant-52724f.netlify.app/)
+
 # laboratorio
 
 This template should help get you started developing with Vue 3 in Vite.
